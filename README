@@ -1,0 +1,5 @@
+This is some Ruby code exploring the problem of parsing SVG paths. 
+
+usage: ruby parsetestsvg.rb 
+in a directory containing smalltestgraph.svg
+(or edit the code to change the filename of the file to parse)
